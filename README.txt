@@ -2,6 +2,4 @@
 
 This is a simple reading file
 This is a second line
-3rd line blah blah
-
-1st update on a branch
+I hope this isn't much of a problem.
